@@ -1,6 +1,6 @@
 """
 File: cooper_pair_box.py
-Author: <a href="mailto:omar.essilfie-quaye@kcl.ac.uk">Omar Essilfie-Quaye</a>
+Author: <a href="mailto:omareq08+cooperpairbox@gmail.com">Omar Essilfie-Quaye</a>
 Date: 02-Feb-2019
 
 Plot the Eigen Values of the Hamiltonian that represents the cooper pair box
