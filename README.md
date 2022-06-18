@@ -1,11 +1,10 @@
 # Cooper Pair Box
 
 A cooper pair box is a simple realisation of a charge qubit.  It is created using the
-super conductve properties of materials.  This jupyter notebook demonstrates how to
-calculate the hamiltonian of a cooper pair box and will then solve for the eigen 
-values of this hamiltonian.  The resultant energy levels calculated are then plotted.
+superconductive properties of materials.  This Jupyter notebook demonstrates how to
+calculate the Hamiltonian of a cooper pair box and will then solve for the eigenvalues of this Hamiltonian.  The resultant energy levels calculated are then plotted.
 
-This jupyter notebook has been made interactive and the charging energy and the 
+This Jupyter notebook has been made interactive- the charging energy and the 
 Josephson (tunnelling) energy can be changed in real time using sliders.
 
 Work initially done by @omareq and formatted into Jupyter Notebook by @SolemnShark871
